@@ -9,4 +9,5 @@ Security Software Subterfuge Standard
 * _We told you so_: But our product did alert the customer that there was a malware infection
 * _Gold Certification_: But this study proves that our product rocks!
 * _Ad hominem_: You are trying to undermine the security of our users!!!1
+* _Magic stone_: It's still better than nothing!
 
