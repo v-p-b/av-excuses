@@ -12,3 +12,5 @@ Security Software Subterfuge Standard
 * _Ad hominem_: You are trying to undermine the security of our users!!!1
 * _Magic stone_: It's still better than nothing!
 * _Stuxnet_: But we were the ones who found X targeted malware!
+* _Almighty cloud_: There was a transient issue in our cloud system!
+* _Not our fault_: There was a third-party software on the system which interfered with our protection!
